@@ -24,11 +24,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
+<body>
 
 <h1 class="bg-minFarve">Hej med Dig </h1>
 <p>Test for at se om alle fonts virker. </p>
 
+
+<div class="container">
+    <div>
+
+
+
+    </div>
+</div>
 
 
 
