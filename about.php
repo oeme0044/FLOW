@@ -29,17 +29,31 @@
 
 <body>
 
-<h1 class="bg-minFarve">Hej med Dig </h1>
-<p>Test for at se om alle fonts virker. </p>
+<div class="col-md-6 p-5">
+    <div class="card border-0">
+        <img class="card-img-top" src="images/profile/0.png">
+        <div class="p-2">
+            <p class="text-left text-muted">EXPERTOMRÅDE</p>
+            <h5 class="text-left card-title">NAVN EFTERNAVN</h5>
+            <p class="py-2 card-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <div class="d-flex">
+                <i class="far fa-envelope"></i>
+                <p>Eksempel@gmail.com</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div>
-    <img src="./images/topwave.svg">
+    <img class="vw-100 h-25" src="./images/topwave.svg">
 </div>
 <div class="text-center bg-white">
     Text goes here!
 </div>
 <div>
-    <img src="./images/botwave.svg">
+    <img class="vw-100 h-25" src="./images/botwave.svg">
 </div>
 <div>seperator</div>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
