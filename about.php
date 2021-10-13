@@ -14,6 +14,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/about.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js">
@@ -30,22 +31,25 @@
 
 <body>
 
-<div class="col-md-6 p-5">
-    <div class="card border-0">
-        <img class="card-img-top" src="images/profile/0.png">
-        <div class="p-2">
-            <p class="text-left text-muted">EXPERTOMRÅDE</p>
-            <h5 class="text-left card-title">NAVN EFTERNAVN</h5>
-            <p class="py-2 card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
-            <div class="d-flex">
-                <i class="far fa-envelope"></i>
-                <p>Eksempel@gmail.com</p>
+<div class="container">
+    <div class="col-md-6 p-5">
+        <div class="card rounder">
+            <img class="card-img-top rounder" src="images/profile/0.png">
+            <div class="p-2">
+                <p class="text-left text-muted">EXPERTOMRÅDE</p>
+                <h5 class="text-left card-title">NAVN EFTERNAVN</h5>
+                <p class="py-2 card-text d-sm-block d-none">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </p>
+                <div class="d-flex">
+                    <i class="far fa-envelope fa-2x thin"></i>
+                    <p class="my-auto px-2 d-xs-block d-none">Eksempel@gmail.com</p>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
 
 <div>
     <img class="vw-100 h-25" src="./images/topwave.svg">
