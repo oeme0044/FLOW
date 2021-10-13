@@ -32,6 +32,16 @@
 <h1 class="bg-minFarve">Hej med Dig </h1>
 <p>Test for at se om alle fonts virker. </p>
 
+<div>
+    <img src="./images/topwave.svg">
+</div>
+<div class="text-center bg-white">
+    Text goes here!
+</div>
+<div>
+    <img src="./images/botwave.svg">
+</div>
+<div>seperator</div>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
