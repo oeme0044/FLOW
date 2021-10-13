@@ -28,8 +28,14 @@
 
 <body>
 
-<h1 class="bg-minFarve">Hej med Dig </h1>
-<p>Test for at se om alle fonts virker. </p>
+<nav class="navbar navbar-expand-md navbar-dark text-white bg-transparent sticky-top shadow">
+    <div class="container">
+        <a class="navbar-brand" href="index.php">
+            <img src="./images/blueLogo.svg" alt="navLogo">
+        </a>
+    </div>
+</nav>
+
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
