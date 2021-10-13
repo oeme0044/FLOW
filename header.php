@@ -32,7 +32,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark text-white bg-transparent shadow fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.php">
-            <img src="./images/whiteLogo.svg" width="30"  height="30" alt="navLogo">
+            <img src="./images/whiteLogo.svg" width="60"  height="60" alt="navLogo">
         </a>
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-list" viewBox="0 0 16 16">
