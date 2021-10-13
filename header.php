@@ -51,9 +51,7 @@
         </div>
     </div>
 </nav>
-<div>
-    <img class="headerimg" src="./images/test.jpg">
-</div>
+
 
 
 
