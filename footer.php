@@ -92,7 +92,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="footer-copyright-text">
-                    <p>Copyright &copy; 2021 All rights reserved | Ømer Tekbas</p>
+                    <p>Copyright &copy; 2021 All rights reserved | Flow</p>
                 </div>
             </div>
         </div>
