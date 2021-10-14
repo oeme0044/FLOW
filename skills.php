@@ -146,7 +146,7 @@
                 <h1>Tekst</h1>
                 <div class="linje2"></div>
             </div>
-            <div class="kort-text text-white">
+            <div class="kort-text text-white text-center">
                 <p>Lidt om hvad coding og design er og gør.</p>
             </div>
         </div>
