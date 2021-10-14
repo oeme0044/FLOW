@@ -1,6 +1,3 @@
-<?php ?>
-
-
 <!DOCTYPE html>
 <html lang="da">
 <head>
@@ -252,7 +249,7 @@
                         <p class="text-left skill">KODER</p>
                         <h5 class="text-left card-title text-white">DENNI DINESEN</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            
+
                         </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
