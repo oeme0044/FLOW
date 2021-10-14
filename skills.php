@@ -36,17 +36,22 @@
 
 <div class="container">
     <div class="kort">
-        <div class="kort-titel">
+        <div class="kort-titel text-white">
             <h1>Overskrift</h1>
-            <div class="linje1"></div>
+            <div class="linje"></div>
         </div>
-        <div class="kort-text">
+        <div class="kort-text text-white">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                 aliquip.</p>
         </div>
     </div>
 </div>
+
+<br><br><br>
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
     <path fill="#ffffff" fill-opacity="1"
           d="M0,96L48,90.7C96,85,192,75,288,58.7C384,43,480,21,576,32C672,43,768,85,864,117.3C960,149,1056,171,1152,165.3C1248,160,1344,128,1392,112L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
@@ -54,43 +59,46 @@
 </svg>
 
 
+
+
+
+
 <div class="bølge bg-white">
-    <div>
-        <h2 class="p-5 text-black d-flex flex-wrap justify-content-center">Vores Kompetencer</h2>
-        <p class="linje mt-3"></p>
+
+
+    <div class="d-flex justify-content-center">
+        <h2 class="p-2 text-black d-flex flex-wrap justify-content-center">Vores Kompetencer</h2>
     </div>
 
-    <div class="container p-5">
+    <p class="linje mt-3"></p>
+
+    <div class="container p-2">
 
         <div class="row ">
-            <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
-                <div class="card border-light p-1 p-md-4 mb-4 mb-lg-0">
+            <div class="col-lg-3 col-md-6 d-flex align-content-center flex-wrap ">
+                <div class="card border-ra border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
-                        <div class="icon icon-shape icon-shape-primary rounded-circle mb-4 d-flex justify-content-center">
+                        <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="far fa-window-restore fa-3x text-white"></i>
                         </div>
                         <h5 class="mb-3 d-flex justify-content-center text-white">Web <span
                                     class="text-lys-farve ms-1">Design</span>
                         </h5>
-                        <p class="text-center text-white">Designed with the latest design trends in mind. Our product
-                            feels modern, creative, and
-                            beautiful.</p>
+                        <p class="card-text-skills text-center text-white">Professionelle, skalerbare hjemmesider kodet og designet fra bunden.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
+            <div class="col-lg-3 col-md-6 d-flex align-content-center flex-wrap ">
                 <div class="card border-ra border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
-                        <div class="icon icon-shape icon-shape-primary rounded-circle mb-4 d-flex justify-content-center">
-                            <i class="fas fa-camera fa-3x text-black"></i>
+                        <div class="icon mb-4 d-flex justify-content-center">
+                            <i class="fas fa-camera fa-3x text-white"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center">Foto & <span
+                        <h5 class="mb-3 d-flex justify-content-center text-white">Foto & <span
                                     class="text-lys-farve ms-1">Video</span>
                         </h5>
-                        <p class="text-center">Designed with the latest design trends in mind. Our product
-                            feels modern, creative, and
-                            beautiful.</p>
+                        <p class="card-text-skills text-center text-white">Høj kvalitetes billeder og/eller video af dine idéer.</p>
                     </div>
                 </div>
             </div>
@@ -98,14 +106,12 @@
             <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
                 <div class="card border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
-                        <div class="icon icon-shape icon-shape-primary rounded-circle mb-4 d-flex justify-content-center">
-                            <i class="fas fa-film fa-3x text-black"></i>
+                        <div class="icon  mb-4 d-flex justify-content-center">
+                            <i class="fas fa-film fa-3x text-white"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center">Motion <span
+                        <h5 class="mb-3 d-flex justify-content-center text-white">Motion <span
                                     class="text-lys-farve ms-1">Design</span></h5>
-                        <p class="text-center">Designed with the latest design trends in mind. Our product
-                            feels modern, creative, and
-                            beautiful.</p>
+                        <p class="card-text-skills text-center text-white">Motion design gør dine idéer levende og bevægende.</p>
                     </div>
                 </div>
             </div>
@@ -113,14 +119,12 @@
             <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
                 <div class="card border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
-                        <div class="icon icon-shape icon-shape-primary rounded-circle mb-4 d-flex justify-content-center">
-                            <i class="fas fa-pen-nib fa-3x text-black"></i>
+                        <div class="icon  mb-4 d-flex justify-content-center">
+                            <i class="fas fa-pen-nib fa-3x text-white"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center">Grafisk <span
+                        <h5 class="mb-3 d-flex justify-content-center text-white">Grafisk <span
                                     class="text-lys-farve ms-1"> Design</span></h5>
-                        <p class="text-center">Designed with the latest design trends in mind. Our product
-                            feels modern, creative, and
-                            beautiful.</p>
+                        <p class="card-text-skills text-center text-white">Lækkert, moderne grafisk design til enhver smag.</p>
                     </div>
                 </div>
             </div>
