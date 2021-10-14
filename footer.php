@@ -37,19 +37,19 @@
 
 
 <footer class="footer">
-    <div class="container">
-        <div class="row">
 
-            <div class="col-lg-3 col-md-4 col-sm-6">
+    <div class="container">
+        <div class="footerrow row">
+
+            <div class="fotcol col-lg-3 col-md-6 col-sm-6">
                 <div class="footer-widget">
                     <h6>Ømer Tekbas</h6>
                 </div>
                 <p>My name is Ømer Tekbas. I am 19 years old. I live in Nykøbing Falster. I am currently studying to be a multimedia designer.</p>
 
             </div>
-            <div class="col-lg-1"></div>
 
-            <div class="col-lg-2 col-md-2 col-sm-6">
+            <div class="fotcol col-lg-2 offset-md-1 offset-lg-1 col-md-4 col-sm-6">
                 <div class="footer-widget">
                     <h6>Menu</h6>
                     <ul>
@@ -63,9 +63,9 @@
                 </div>
             </div>
 
-            <div class="col-lg-3  col-md-4 col-sm-6">
+            <div class="fotcol col-lg-3  col-md-5 col-sm-6">
                 <div class="footer-widget">
-                    <h6>Kontakt</h6>
+                    <h6>Contact</h6>
                     <ul>
                         <li><i class="fas fa-mobile-alt"></i> +45 51 26 05 32</li>
                         <li><i class="far fa-envelope"></i> tekbas425@gmail.com</li>
@@ -76,30 +76,30 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-6">
-                <h4>Sociale Medier</h4>
+            <div class="footer-widget col-sm-6 col-md-6 col-lg-3 offset-md-1 offset-lg-0">
+                <h6>Find os også her</h6>
                 <div class="social-links">
                     <a href="#"><i class="sm fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="sm fab fa-twitter"></i></a>
                     <a href="#"><i class="sm fab fa-instagram"></i></a>
                     <a href="#"><i class="sm fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="footer-copyright-text">
+                    <p>Copyright &copy; 2021 All rights reserved | Ømer Tekbas</p>
                 </div>
             </div>
         </div>
     </div>
 
-
-
-
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <div class="footer-copyright-text">
-                <p>Copyright &copy; 2021 All rights reserved | Flow</p>
-            </div>
-        </div>
-    </div>
-
-
 </footer>
+
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
