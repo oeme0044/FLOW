@@ -67,18 +67,16 @@
 
 
     <div class="d-flex justify-content-center">
-        <h2 class="p-2 text-black justify-content-center">Vores Kompetencer</h2>
-
+        <h2 class="p-2 text-black d-flex flex-wrap justify-content-center">Vores Kompetencer</h2>
     </div>
-    <div  class="linje mt-3"></div>
 
-
+    <p class="linje mt-3"></p>
 
     <div class="container p-2">
 
         <div class="row ">
             <div class=" col-lg-3 col-md-6 d-flex align-content-center flex-wrap ">
-                <div class="card border-0 p-1 p-md-4 mb-4 mb-lg-0">
+                <div class="card border-ra border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class=" w-50 p-3 card-body">
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="far fa-window-restore fa-3x text-white"></i>
@@ -92,7 +90,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6 d-flex align-content-center flex-wrap ">
-                <div class="card border-0 p-1 p-md-4 mb-4 mb-lg-0">
+                <div class="card border-ra border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
                         <div class="icon mb-4 d-flex justify-content-center">
                             <i class="fas fa-camera fa-3x text-white"></i>
@@ -106,7 +104,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
-                <div class="card border-0 p-1 p-md-4 mb-4 mb-lg-0">
+                <div class="card border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="fas fa-film fa-3x text-white"></i>
@@ -119,7 +117,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6  d-flex align-content-center flex-wrap ">
-                <div class="card border-0 p-1 p-md-4 mb-4 mb-lg-0">
+                <div class="card border-light p-1 p-md-4 mb-4 mb-lg-0">
                     <div class="card-body">
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="fas fa-pen-nib fa-3x text-white"></i>
