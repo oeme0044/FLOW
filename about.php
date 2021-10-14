@@ -249,7 +249,7 @@
                         <p class="text-left skill">KODER</p>
                         <h5 class="text-left card-title text-white">DENNI DINESEN</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-
+                            Jeg bliver holdt som gidsel, dette er et kald efter hjælp.
                         </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
