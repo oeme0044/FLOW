@@ -70,7 +70,10 @@
         <h1 class="p-2 text-black ">Vores Kompetencer</h1>
     </div>
 
-    <p class="linje mt-1"></p>
+    <div class="strej">
+        <div class="kort-titel text-white">
+            <div class="linje"></div>
+        </div>
 
     <div class="container">
 
