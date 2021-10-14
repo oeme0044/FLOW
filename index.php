@@ -27,19 +27,12 @@
 <body>
 
 <?php include 'header.php'; ?>
-<h1 class="bg-minFarve">Hej med Dig</h1>
-<p>Test for at se om alle fonts virker.</p>
-
-
-<div class="container">
-    <div>
-
-
-    </div>
-</div>
 
 
 
+
+
+<?php include 'footer.php'; ?>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
