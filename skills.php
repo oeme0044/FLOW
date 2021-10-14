@@ -77,7 +77,7 @@
         <div class="row ">
             <div class=" col-lg-3 col-md-6 d-flex align-content-center flex-wrap ">
                 <div class="card border-ra border-light p-1 p-md-4 mb-4 mb-lg-0">
-                    <div class="card-body">
+                    <div class=" w-50 p-3 card-body">
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="far fa-window-restore fa-3x text-white"></i>
                         </div>
