@@ -35,6 +35,36 @@
 
 
 }
+
+
+.space{
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  min-width: 300px;
+
+  .linje2{
+    height: 3px;
+    border-radius: 5px;
+    background: #48CAE4;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 3px;
+    margin-bottom: 10px;
+  }
+
+
+}
+
+.padding_bt{
+  padding-bottom: 5rem;
+}
+
+
 .bølge {
 
+}
+.bølge2{
+  height: 10rem;
 }
