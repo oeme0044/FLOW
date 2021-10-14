@@ -74,6 +74,7 @@
         <div class="kort-titel text-white">
             <div class="linje"></div>
         </div>
+    </div>
 
     <div class="container">
 
