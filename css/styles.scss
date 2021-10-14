@@ -42,3 +42,14 @@ img {
 .card-text-skills{
 	font-size: 10px;
 }
+
+
+.card-body{
+	background-color: #001D3D; /* or whatever width you want. */
+	min-width:300px; /* or whatever width you want. */
+	min-height: 300px;
+	height: 300px;
+	display: inline-block;
+	width: 100%;
+	object-fit: cover;
+}
