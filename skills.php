@@ -32,21 +32,8 @@
 </head>
 
 <body>
-<?php include "header.php" ?>
 
-<div class="container">
-    <div class="kort">
-        <div class="kort-titel text-white">
-            <h1>Overskrift</h1>
-            <div class="linje"></div>
-        </div>
-        <div class="kort-text text-white">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip.</p>
-        </div>
-    </div>
-</div>
+
 
 <br><br><br>
 
@@ -131,13 +118,18 @@
             </div>
         </div>
     </div>
+
+    <br>
+    <br>
+
 </div>
 
 
 
 <svg xmlns="http://www.w3.org/2000/svg"    viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,96L48,90.7C96,85,192,75,288,58.7C384,43,480,21,576,32C672,43,768,85,864,117.3C960,149,1056,171,1152,165.3C1248,160,1344,128,1392,112L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
 
-
+<br>
+<br>
 
 
     <div class="container padding_bt">

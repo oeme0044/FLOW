@@ -30,24 +30,19 @@
 </head>
 
 <body>
-<?php include "header.php" ?>
-
-<br>
-<br>
-<br>
 
 
-<div class="row ">
-    <div class="wrapper">
-        <div class="card border-0 ">
-            <div class="card-body p-4 m-5">
+<div class="row1 ">
+    <div class="wrapper bg-white">
+        <div class="card1 border-0 ">
+            <div class="card-body1 p-4">
 
-                <div class="kort-titel text-black d-flex justify-content-center">
+                <div class="kort-titel1 text-black d-flex justify-content-center">
                     <h1>Overskrift</h1>
-                    <div class="linje"></div>
+                    <div class="linje1"></div>
                 </div>
-                <div class="kort-text text-black text-center p-3">
-                    <div class="contact-text w-50 d-flex justify-content-center ">
+                <div class="kort-text1 text-black text-center p-3">
+                    <div class="contact-text1 w-50 d-flex justify-content-center ">
                         <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                             tempor incididunt ut
                             labore et
@@ -58,7 +53,7 @@
                 </div>
 
                 <div class="icon rounded-circle text-white mb-4 d-flex justify-content-center">
-                    <i class="far fa-window-restore fa-3x "></i>
+                    <i class="far1 far fa-window-restore fa-3x "></i>
                 </div>
 
             </div>
