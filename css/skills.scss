@@ -7,7 +7,15 @@
 .card{
   border-radius: 1rem;
   flex-direction: unset !important;
-  margin: 0 auto;
+  margin: 0;
+
+  @media screen and (max-width: 752px ){
+    margin: 0 auto;
+  }
+  @media screen and (min-width: 752px ){
+    margin: 0 auto;
+    width: 90%;
+  }
 
 }
 
