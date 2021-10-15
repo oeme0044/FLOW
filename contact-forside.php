@@ -34,20 +34,15 @@
 <div class="row1 ">
     <div class="wrapper bg-white">
         <div class="card1 border-0 ">
-            <div class="card-body1 p-4">
+            <div class="card-body1  p-4">
 
                 <div class="kort-titel1 text-black d-flex justify-content-center">
-                    <h1>Overskrift</h1>
+                    <h1>Kontakt Os</h1>
                     <div class="linje1"></div>
                 </div>
                 <div class="kort-text1 text-black text-center p-3">
                     <div class="contact-text1 w-50 d-flex justify-content-center ">
-                        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut
-                            labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                            ut
-                            aliquip.</p>
+                        <p class="text-center">Vi sidder klar til at tage en helt og aldeles uforpligtende snak med dig om din virksomheds potentiale på Facebook, og hvilken type markedsføring og annoncering som passer bedst for dig.</p>
                     </div>
                 </div>
 
