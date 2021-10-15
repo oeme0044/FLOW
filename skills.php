@@ -33,7 +33,6 @@
 
 <body>
 
-<?php include "header.php" ?>
 
 <br><br><br>
 
@@ -143,7 +142,7 @@
             </div>
         </div>
     </div>
-</div>
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -157,7 +156,6 @@
 
 
 
-<script src=" node_modules
-    /bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src=" node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
