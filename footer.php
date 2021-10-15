@@ -43,9 +43,9 @@
 
             <div class="fotcol col-lg-3 col-md-6 col-sm-6">
                 <div class="footer-widget">
-                    <h6>Ømer Tekbas</h6>
+                    <h6>Flow Aps</h6>
                 </div>
-                <p>Vi hedder Flow & vi skaber kreative løsninger for jer.</p>
+                <p>Vi hedder Flow & vi skaber kreative løsninger for dig/jer.</p>
 
             </div>
 
