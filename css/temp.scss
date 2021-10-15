@@ -1,64 +1,6 @@
 
-.kort{
-  margin: 0 auto;
-  width: 50%;
-  margin-top: 10rem;
-  min-width: 300px;
-
-  .kort-titel{
-    color: #ffffff;
-    text-transform: uppercase;
-
-    .linje1{
-
-      height: 3px;
-      border-radius: 5px;
-      background: #48CAE4;
-      width: 50%;
-      margin-top: 3px;
-      margin-bottom: 10px;
-
-      @media screen and (min-width: 1000px){
-        width: 30%;
-
-      }
 
 
-
-    }
-  }
-
-  .kort-text{
-    color: #fff;
-  }
-
-
-}
-
-
-.space{
-  margin: 0 auto;
-  width: 50%;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  min-width: 300px;
-
-  .linje2{
-    height: 3px;
-    border-radius: 5px;
-    background: #48CAE4;
-    width: 50%;
-    margin: 0 auto;
-    margin-top: 3px;
-    margin-bottom: 10px;
-    @media screen and(min-width: 900px){
-      width: 30%;
-
-    }
-  }
-
-
-}
 
 .padding_bt{
   padding-bottom: 5rem;
@@ -73,9 +15,8 @@
 }
 
 .kort{
-  margin: 0 auto;
   width: 50%;
-  margin-top: 10rem;
+  margin: 10rem auto 0;
   min-width: 300px;
 
   .kort-titel{
@@ -110,10 +51,8 @@
 
 
 .space{
-  margin: 0 auto;
   width: 50%;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem auto;
   min-width: 300px;
 
   .linje2{
@@ -121,9 +60,7 @@
     border-radius: 5px;
     background: #48CAE4;
     width: 50%;
-    margin: 0 auto;
-    margin-top: 3px;
-    margin-bottom: 10px;
+    margin: 3px auto 10px;
     @media screen and(min-width: 900px){
       width: 30%;
 
