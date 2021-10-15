@@ -49,17 +49,14 @@
 
 
 
-
 <div class="bølge bg-white">
 
-    <div class="container">
-        <div class="kompetence-kort">
-            <div class="kompentence-titel">
-                <h1>Vores Kompetencer</h1>
-                <div class="kompetence-linje"></div>
-            </div>
-        </div>
 
+    <div class="d-flex justify-content-center">
+        <h2 class="p-2 text-black justify-content-center">Vores Kompetencer</h2>
+
+    </div>
+    <div  class="linje mt-3"></div>
 
 
 
@@ -135,17 +132,17 @@
 <br>
 
 
-<div class="container padding_bt">
-    <div class="kort space">
-        <div class="kort-titel2 text-white text-center">
-            <h1>Tekst</h1>
-            <div class="linje2"></div>
-        </div>
-        <div class="kort-text text-white text-center">
-            <p>Lidt om hvad coding og design er og gør.</p>
+    <div class="container padding_bt">
+        <div class="kort space">
+            <div class="kort-titel2 text-white text-center">
+                <h1>Tekst</h1>
+                <div class="linje2"></div>
+            </div>
+            <div class="kort-text text-white text-center">
+                <p>Lidt om hvad coding og design er og gør.</p>
+            </div>
         </div>
     </div>
-</div>
 
 
 

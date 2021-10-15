@@ -27,18 +27,6 @@
 
 <body>
 
-<div class="container">
-    <div class="kompetence-kort">
-        <div class="kompentence-titel">
-            <h1>Vores Kompetencer</h1>
-            <div class="kompetence-linje"></div>
-        </div>
-    </div>
-
-
-
-
-
 
 <div class="container">
 <div class="kort">
