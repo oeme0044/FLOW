@@ -121,15 +121,15 @@
                         <p class="text-left skill">DESIGNER</p>
                         <h5 class="text-left card-title text-white">VICTOR FRADSEN</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
+                            Jeg har arbejdet med grafisk design i mere end 4 år. Lige nu fokuserer jeg primært på motion design, og har gjort det i +2 år nu.<br><br>
+                            Jeg har også en masse erfaring, når det kommer til det med at bruge et kamera. Jeg har selv lavet små videoer siden jeg var helt lille, så jeg har altid haft en stor kærlighed for at tage billeder og lave videoer.                        </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:contact@victorfrandsen.dk" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
                                 <div class="col-12">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                    <p class="px-1 text-white">contact@victorfrandsen.dk</p>
                                 </div>
                             </a>
                         </div>
@@ -177,15 +177,16 @@
                         <p class="text-left skill">DESIGNER</p>
                         <h5 class="text-left card-title b-text">VICTOR FRADSEN</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Jeg har arbejdet med grafisk design i mere end 4 år. Lige nu fokuserer jeg primært på motion design, og har gjort det i +2 år nu.<br><br>
+                            Jeg har også en masse erfaring, når det kommer til det med at bruge et kamera. Jeg har selv lavet små videoer siden jeg var helt lille, så jeg har altid haft en stor kærlighed for at tage billeder og lave videoer.
                         </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:contact@victorfrandsen.dk" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
                                 <div class="col-12 d-none d-sm-block">
-                                    <p class="px-1 b-text">Eksempel@gmail.com</p>
+                                    <p class="px-1 b-text">contact@victorfrandsen.dk</p>
                                 </div>
                             </a>
                         </div>
