@@ -39,7 +39,7 @@
 
 
                 <p class="ksektekst">Brug venligst kontaktformularen herunder for at kontakte os med diverse spørgsmål.
-                    Vi vender altid tilbage med svar hurtigst muligt.
+                    Vi vender altid tilbage med svar hurtigst muligt med et uforpligtende tilbud.
                 </p>
 
                 <form class="contact-form" action="#" method="post">
@@ -58,7 +58,7 @@
                 <p class="infoover">Kontakt information</p>
                 <div class="line2"></div>
                 <p class="infotekst">+45 50 69 93 66</p>
-                <p class="infotekst2">Nykøbing Falster 4800, Denmark</p>
+                <p class="infotekst2">Nykøbing Falster 4800, Danmark</p>
                 <a href="#" class="infoteks3"><p>flowaps2021@gmail.com</p></a>
             </div>
             <p class="åbenover">Åbningstider</p>
