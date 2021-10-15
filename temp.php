@@ -29,26 +29,14 @@
 
 <div class="banner" id="bannersek">
     <video autoplay muted loop>
-        <source src="img/ømer.mp4" type="video/mp4">
+        <source src="video/hero-video.mp4" type="video/mp4">
     </video>
 
     <div class="bannerdel">
-        <p class="over2">Flow, lade dine ideer flyde</p>
-        <p class="over3">I am a boy with a lot of energy and I love new challenges, which also means that I go into a project with 100% focus, as it is important for me to finish his things.</p>
-        <a href="#portfoliosek"><button type="button" class="cta btn btn-lg">View Portfolio</button></a>
+        <h3 class="over2">Flow, lade dine ideer flyde</h3>
     </div>
 
 </div>
-
-
-<div class="container">
-    <div class="kompetence-kort">
-        <div class="kompentence-titel">
-            <h1>Vores Kompetencer</h1>
-            <div class="kompetence-linje"></div>
-        </div>
-    </div>
-
 
 
 
