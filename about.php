@@ -31,7 +31,7 @@
 
 <?php include 'header.php'; ?>
 <div>
-    <img class="hero" src="./images/test.jpg" alt="hero">
+    <img class="hero" src="./images/h/1bw.jpg" alt="hero">
     <div class="centered text-white"><h1>Om Flow</h1></div>
 </div>
 
@@ -70,29 +70,28 @@
 <div class="h-50"> <!-- User Section (1) -->
     <div class="container">
         <div class="row d-flex justify-content-evenly">
-            <div class="col-6 p-2 profile"><!--Box 1-->
+            <div class="col-6 col-xl-3 p-2 profile"><!--Box 1-->
                 <div class="card rounder border-0 bg-transparent">
                     <img class="card-img-top rounder" src="images/profile/1.jpg">
                     <div class="p-2">
                         <p class="text-left skill">DESIGN - PROJEKTLEDER</p>
                         <h5 class="text-left card-title text-white">SIMON JULENDAL</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
+                            Jeg er design projektlederen, mit job er at sørger for at vi bringer et lækkert design ud til kunderne, samt også tage beslutninger når holdet sidder fast. Jeg har sat det som en mission at alle mine medarbejdere skal føle sig tilpas under mine vinger.                        </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:Simonjulendal1201@gmail.com" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                <div class="col-12 d-none d-sm-block">
+                                    <p class="px-1 text-white">Simonjulendal1201@gmail.com</p>
                                 </div>
                             </a>
                         </div>
                     </div>
                 </div>
             </div> <!--Box1-->
-            <div class="col-6 p-2 profile"><!--Box 2-->
+            <div class="col-6 col-xl-3 p-2 profile"><!--Box 2-->
                 <div class="card rounder border-0 bg-transparent">
                     <img class="card-img-top rounder" src="images/profile/2.jpg">
                     <div class="p-2">
@@ -103,28 +102,72 @@
                             Også er jeg en stolt kattemor, til to små missere. 🐱
                         </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:natasjabaysor@gmail.com" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                <div class="col-12 d-none d-sm-block">
+                                    <p class="px-1 text-white">natasjabaysor@gmail.com</p>
                                 </div>
                             </a>
                         </div>
                     </div>
                 </div>
             </div> <!--Box2-->
+            <div class="col-6 col-xl-3 p-2 profile d-xl-block d-none"><!--Box 3-->
+                <div class="card rounder border-0 bg-transparent">
+                    <img class="card-img-top rounder" src="images/profile/3.jpg">
+                    <div class="p-2">
+                        <p class="text-left skill">DESIGNER</p>
+                        <h5 class="text-left card-title text-white">VICTOR FRADSEN</h5>
+                        <p class="py-2 card-text d-sm-block d-none text-white">
+                            Jeg har arbejdet med grafisk design i mere end 4 år. Lige nu fokuserer jeg primært på motion design, og har gjort det i +2 år nu.<br><br>
+                            Jeg har også en masse erfaring, når det kommer til det med at bruge et kamera. Jeg har selv lavet små videoer siden jeg var helt lille, så jeg har altid haft en stor kærlighed for at tage billeder og lave videoer.                        </p>
+                        <div class="row text-center">
+                            <a href="mailto:contact@victorfrandsen.dk" class="text-decoration-none">
+                                <div class="col-12">
+                                    <i class="far fa-envelope fa-2x skill"></i>
+                                </div>
+                                <div class="col-12">
+                                    <p class="px-1 text-white">contact@victorfrandsen.dk</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div> <!--Box3-->
+            <div class="col-6 col-xl-3 p-2 profile d-xl-block d-none"><!--Box 4-->
+                <div class="card rounder border-0 bg-transparent">
+                    <img class="card-img-top rounder" src="images/profile/4.jpg">
+                    <div class="p-2">
+                        <p class="text-left skill">DESIGNER</p>
+                        <h5 class="text-left card-title text-white">NISTIMAN OMAR</h5>
+                        <p class="py-2 card-text d-sm-block d-none text-white">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="row text-center">
+                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                                <div class="col-12">
+                                    <i class="far fa-envelope fa-2x skill"></i>
+                                </div>
+                                <div class="col-12 ">
+                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div> <!--Box4-->
         </div>
     </div>
 </div> <!--User Section (1)-->
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+<svg class="d-xl-none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
     <path fill="#ffffff" fill-opacity="1"
           d="M0,96L48,90.7C96,85,192,75,288,58.7C384,43,480,21,576,32C672,43,768,85,864,117.3C960,149,1056,171,1152,165.3C1248,160,1344,128,1392,112L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
           class="position-relative"></path>
 </svg>
-<div class="bg-white h-50"> <!-- User Section (2) -->
+<div class="bg-white h-50 d-xl-none"> <!-- User Section (2) -->
     <div class="container">
         <div class="row d-flex justify-content-evenly">
             <div class="col-6 p-2 profile"><!--Box 3-->
@@ -134,15 +177,16 @@
                         <p class="text-left skill">DESIGNER</p>
                         <h5 class="text-left card-title b-text">VICTOR FRADSEN</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Jeg har arbejdet med grafisk design i mere end 4 år. Lige nu fokuserer jeg primært på motion design, og har gjort det i +2 år nu.<br><br>
+                            Jeg har også en masse erfaring, når det kommer til det med at bruge et kamera. Jeg har selv lavet små videoer siden jeg var helt lille, så jeg har altid haft en stor kærlighed for at tage billeder og lave videoer.
                         </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:contact@victorfrandsen.dk" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
-                                    <p class="px-1 b-text">Eksempel@gmail.com</p>
+                                <div class="col-12 d-none d-sm-block">
+                                    <p class="px-1 b-text">contact@victorfrandsen.dk</p>
                                 </div>
                             </a>
                         </div>
@@ -163,7 +207,7 @@
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12 d-none d-sm-block">
                                     <p class="px-1 b-text">Eksempel@gmail.com</p>
                                 </div>
                             </a>
@@ -174,11 +218,11 @@
         </div>
     </div>
 </div> <!--User Section (2)-->
-<svg xmlns="http://www.w3.org/2000/svg"    viewBox="0 0 1440 320">
+<svg class="d-xl-none" xmlns="http://www.w3.org/2000/svg"    viewBox="0 0 1440 320">
     <path fill="#ffffff" fill-opacity="1" d="M0,96L48,90.7C96,85,192,75,288,58.7C384,43,480,21,576,32C672,43,768,85,864,117.3C960,149,1056,171,1152,165.3C1248,160,1344,128,1392,112L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
 </svg>
 
-<div class="h-50"> <!-- User Section (3) -->
+<div class="h-50 d-xl-none"> <!-- User Section (3) -->
     <div class="container">
         <div class="row d-flex justify-content-evenly">
             <div class="col-6 p-2 profile"><!--Box 5-->
@@ -188,15 +232,15 @@
                         <p class="text-left skill">KODER - PROJEKTLEDER</p>
                         <h5 class="text-left card-title text-white">JOACHIM BERNER</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Jeg hedder Joachim og jeg er en af kode hovederne, der sidder og arbejder for Flow.
                         </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:Joachim.berner@hotmail.com" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                <div class="col-12 d-none d-sm-block">
+                                    <p class="px-1 text-white">Joachim.berner@hotmail.com</p>
                                 </div>
                             </a>
                         </div>
@@ -218,7 +262,7 @@
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12 d-none d-sm-block">
                                     <p class="px-1 text-white">Eksempel@gmail.com</p>
                                 </div>
                             </a>
@@ -239,14 +283,37 @@
 <div class="bg-white h-50"> <!-- User Section (2) -->
     <div class="container">
         <div class="row d-flex justify-content-evenly">
-            <div class="col-6 p-2 profile"><!--Box 6-->
+            <div class="col-6 col-xl-3 p-2 profile d-xl-block d-none"><!--Box 5-->
                 <div class="card rounder border-0 bg-transparent">
-                    <img class="card-img-top rounder" src="images/profile/7.jpg">
+                    <img class="card-img-top rounder" src="images/profile/5.jpg">
+                    <div class="p-2">
+                        <p class="text-left skill">KODER - PROJEKTLEDER</p>
+                        <h5 class="text-left card-title b-text">JOACHIM BERNER</h5>
+                        <p class="py-2 card-text d-sm-block d-none b-text">
+                            Jeg hedder Joachim og jeg er en af kode hovederne, der sidder og arbejder for Flow.
+                        </p>
+                        <div class="row text-center">
+                            <a href="mailto:Joachim.berner@hotmail.com " class="text-decoration-none">
+                                <div class="col-12">
+                                    <i class="far fa-envelope fa-2x skill"></i>
+                                </div>
+                                <div class="col-12">
+                                    <p class="px-1 b-text">Joachim.berner@hotmail.com</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div> <!--Box5-->
+            <div class="col-6 col-xl-3 p-2 profile d-xl-block d-none"><!--Box 6-->
+                <div class="card rounder border-0 bg-transparent">
+                    <img class="card-img-top rounder" src="images/profile/6.jpg">
                     <div class="p-2">
                         <p class="text-left skill">KODER</p>
-                        <h5 class="text-left card-title b-text">ØMER TEKBAS</h5>
+                        <h5 class="text-left card-title b-text">OLIVER KRÜGER</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Jeg er en kreativ person, som altid er klar på at løse diverse problemstillinger. Udover dette er jeg en meget pålidelig, engageret og ansvarlig person, som sætter sit arbejde først.<br><br>
+                            Også er jeg en stolt kattemor, til to små missere. 🐱
                         </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
@@ -260,8 +327,30 @@
                         </div>
                     </div>
                 </div>
+            </div> <!--Box6-->
+            <div class="col-6 col-xl-3 p-2 profile"><!--Box 7-->
+                <div class="card rounder border-0 bg-transparent">
+                    <img class="card-img-top rounder" src="images/profile/7.jpg">
+                    <div class="p-2">
+                        <p class="text-left skill">KODER</p>
+                        <h5 class="text-left card-title b-text">ØMER TEKBAS</h5>
+                        <p class="py-2 card-text d-sm-block d-none b-text">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <div class="row text-center">
+                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                                <div class="col-12">
+                                    <i class="far fa-envelope fa-2x skill"></i>
+                                </div>
+                                <div class="col-12 d-none d-sm-block">
+                                    <p class="px-1 b-text">Eksempel@gmail.com</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div> <!--Box7-->
-            <div class="col-6 p-2 profile"><!--Box 8-->
+            <div class="col-6 col-xl-3 p-2 profile"><!--Box 8-->
                 <div class="card rounder border-0 bg-transparent">
                     <img class="card-img-top rounder" src="images/profile/8.jpg">
                     <div class="p-2">
@@ -271,11 +360,11 @@
                             Jeg bliver holdt som gidsel, dette er et kald efter hjælp.<br><br>De har tvunget mig til at lave denne side, uden så meget som en eneste frokostpause. 😭
                         </p>
                         <div class="row text-center">
-                            <a href="mailto:webmaster@example.com" class="text-decoration-none">
+                            <a href="mailto:denni-linnebjerg@gubby.dk" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12 d-none d-sm-block">
                                     <p class="px-1 b-text">denni-linnebjerg@gubby.dk</p>
                                 </div>
                             </a>
