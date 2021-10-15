@@ -1,4 +1,3 @@
-
 .kort{
   margin: 0 auto;
   width: 50%;
@@ -35,6 +34,45 @@
 
 }
 
+.kompetence-kort {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 10rem;
+  min-width: 300px;
+
+  .kompentence-titel {
+    color: #001D3D;
+    text-transform: uppercase;
+
+    h1{
+      font-size: 25px;
+      text-align: center;
+
+      @media screen and(min-width: 768px){
+        font-size: 28px;
+      }
+    }
+
+
+    .kompetence-linje {
+      height: 3px;
+      border-radius: 5px;
+      background: #48CAE4;
+      width: 70%;
+      margin: 0 auto;
+      @media screen and(min-width: 992px){
+        width: 50%;
+      }
+      @media screen and(min-width: 1200px){
+        width: 40%;
+      }
+
+
+    }
+  }
+}
+
+
 
 .space{
   margin: 0 auto;
@@ -65,79 +103,10 @@
 }
 
 
-.bølge {
 
-}
 .bølge2{
   height: 10rem;
 }
 
-.kort{
-  margin: 0 auto;
-  width: 50%;
-  margin-top: 10rem;
-  min-width: 300px;
-
-  .kort-titel{
-    color: #ffffff;
-    text-transform: uppercase;
-
-    .linje1{
-
-        height: 3px;
-        border-radius: 5px;
-        background: #48CAE4;
-        width: 50%;
-        margin-top: 3px;
-        margin-bottom: 10px;
-
-      @media screen and (min-width: 1000px){
-        width: 30%;
-
-      }
 
 
-
-    }
-  }
-
-  .kort-text{
-    color: #fff;
-  }
-
-
-}
-
-
-.space{
-  margin: 0 auto;
-  width: 50%;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  min-width: 300px;
-
-  .linje2{
-    height: 3px;
-    border-radius: 5px;
-    background: #48CAE4;
-    width: 50%;
-    margin: 0 auto;
-    margin-top: 3px;
-    margin-bottom: 10px;
-  }
-.kort-text{
-}
-
-}
-
-.padding_bt{
-  padding-bottom: 5rem;
-}
-
-
-.bølge {
-
-}
-.bølge2{
-  height: 10rem;
-}
