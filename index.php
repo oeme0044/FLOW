@@ -11,6 +11,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/temp.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js">
@@ -28,11 +29,15 @@
 
 <?php include 'header.php'; ?>
 
+<?php include 'temp.php'; ?>
 
+<?php include 'skills.php'; ?>
 
-
+<?php include 'contact-forside.php'; ?>
 
 <?php include 'footer.php'; ?>
+
+
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

@@ -13,7 +13,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/temp.scss" rel="stylesheet" type="text/css">
+    <link href="css/contact-forside.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link rel="preconnect" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js">
@@ -30,18 +30,34 @@
 </head>
 
 <body>
-<?php include "header.php" ?>
 
-<div class="container">
-    <div class="kort">
-        <div class="kort-titel text-white">
-            <h1>Overskrift</h1>
-            <div class="linje"></div>
-        </div>
-        <div class="kort-text text-white">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip.</p>
+
+<div class="row1 ">
+    <div class="wrapper bg-white">
+        <div class="card1 border-0 ">
+            <div class="card-body1 p-4">
+
+                <div class="kort-titel1 text-black d-flex justify-content-center">
+                    <h1>Overskrift</h1>
+                    <div class="linje1"></div>
+                </div>
+                <div class="kort-text1 text-black text-center p-3">
+                    <div class="contact-text1 w-50 d-flex justify-content-center ">
+                        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            tempor incididunt ut
+                            labore et
+                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                            ut
+                            aliquip.</p>
+                    </div>
+                </div>
+
+                <div class="icon rounded-circle text-white mb-4 d-flex justify-content-center">
+                    <i class="far1 far fa-window-restore fa-3x "></i>
+                </div>
+
+            </div>
         </div>
     </div>
+
 </div>

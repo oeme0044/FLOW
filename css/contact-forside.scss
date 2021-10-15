@@ -1,39 +1,42 @@
 
-.kort{
+.text-lys-farve1{
+  color: #48CAE4;
+}
+
+i.far1 {
+  background-color: #48CAE4 ;
+  display: inline-block;
+  border-radius: 60px;
+  padding: 0.5em 0.6em;
+
+}
+
+.contact-text1{
+  text-align: center;
   margin: 0 auto;
-  width: 50%;
-  margin-top: 10rem;
-  min-width: 300px;
-
-  .kort-titel{
-    color: #ffffff;
-    text-transform: uppercase;
-
-    .linje1{
-
-      height: 3px;
-      border-radius: 5px;
-      background: #48CAE4;
-      width: 50%;
-      margin-top: 3px;
-      margin-bottom: 10px;
-
-      @media screen and (min-width: 1000px){
-        width: 30%;
-
-      }
-
-
-
-    }
-  }
-
-  .kort-text{
-    color: #fff;
-  }
-
 
 }
-.bølge {
+
+.card1{
+  border-radius: 1rem;
+  flex-direction: unset !important;
+  width: 100%;
 
 }
+
+
+
+
+.card-text-skills1{
+  font-size: 16px;
+}
+
+
+
+/* Til Mobil visning */
+@media screen and (min-width: 320px) {
+  .card1 {
+
+  }
+}
+
