@@ -52,7 +52,7 @@
 <div class="bølge bg-white">
 
 
-    <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-center" id="kompetencer">
         <h2 class="p-2 text-black justify-content-center">Vores Kompetencer</h2>
 
     </div>

@@ -53,11 +53,10 @@
                 <div class="footer-widget">
                     <h6>Menu</h6>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Skills</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="index.php#navforside">Forside</a></li>
+                        <li><a href="index.php#kompetencer">Kompetencer</a></li>
+                        <li><a href="about.php">Om os</a></li>
+                        <li><a href="contact.php">Kontakt</a></li>
 
                     </ul>
                 </div>
@@ -67,8 +66,8 @@
                 <div class="footer-widget">
                     <h6>Contact</h6>
                     <ul>
-                        <li><i class="fas fa-mobile-alt"></i> +45 51 26 05 32</li>
-                        <li><i class="far fa-envelope"></i> tekbas425@gmail.com</li>
+                        <li><i class="fas fa-mobile-alt"></i> +45 50 69 93 66</li>
+                        <li><i class="far fa-envelope"></i> flowaps2021@gmail.com</li>
                         <li><i class="fas fa-map-marker-alt"></i> Nykøbing Falster, Denmark</li>
 
 
