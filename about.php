@@ -293,6 +293,8 @@
                         <h5 class="text-left card-title b-text">JOACHIM BERNER</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
                             Jeg hedder Joachim og jeg er en af kode hovederne, der sidder og arbejder for Flow.
+                            Det er også mig der Projektleder for vores "Nørder" her i Flow, hvor jeg skal sørge for
+                            at vi genskaber designernes design på nettet.
                         </p>
                         <div class="row text-center">
                             <a href="mailto:Joachim.berner@hotmail.com " class="text-decoration-none">
