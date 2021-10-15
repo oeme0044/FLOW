@@ -29,9 +29,9 @@
 
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark">
+<nav class="navbar navbar-expand-lg navbar-dark" id="navforside">
     <div class="navcon container-fluid">
-        <a class="navbar-brand" href="#" id="homedelen">
+        <a class="navbar-brand" href="index.php" id="homedelen">
             <img src="images/blueLogo.svg" alt="" width="80" height="80">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,19 +40,17 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="index.php">Forside</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
+                    <a class="nav-link" href="index.php#kompetencer">Kompetencer</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Portfolio</a>
+                    <a class="nav-link" href="about.php">om os</a>
                 </li>
+
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Skills</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">kontakt</a>
                 </li>
             </ul>
         </div>
@@ -62,7 +60,7 @@
 
 
 
-
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 

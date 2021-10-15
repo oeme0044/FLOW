@@ -52,7 +52,7 @@
 <div class="bølge bg-white">
 
 
-    <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-center" id="kompetencer">
         <h2 class="p-2 text-black justify-content-center">Vores Kompetencer</h2>
 
     </div>
@@ -133,7 +133,7 @@
 
 
     <div class="container padding_bt">
-        <div class="kort space">
+        <div class="kort2 space">
             <div class="kort-titel2 text-white text-center">
                 <h1>Tekst</h1>
                 <div class="linje2"></div>
@@ -157,6 +157,5 @@
 
 
 
-<script src=" node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
