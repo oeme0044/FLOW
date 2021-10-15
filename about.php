@@ -118,7 +118,7 @@
                 <div class="card rounder border-0 bg-transparent">
                     <img class="card-img-top rounder" src="images/profile/3.jpg">
                     <div class="p-2">
-                        <p class="text-left skill">DESIGNER</p>
+                        <p class="text-left skill">DESIGN & FOTO</p>
                         <h5 class="text-left card-title text-white">VICTOR FRADSEN</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
                             Jeg har arbejdet med grafisk design i mere end 4 år. Lige nu fokuserer jeg primært på motion design, og har gjort det i +2 år nu.<br><br>
