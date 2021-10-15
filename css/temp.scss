@@ -200,4 +200,23 @@ a{
 }
 
 
+.kort2{
+  margin: 0 auto;
+  width: 50%;
 
+  min-width: 300px;
+}
+@media screen and(min-width: 768px){
+  .kort2{
+    margin-top: -78px;
+    margin-bottom: -5px;
+  }
+
+}
+@media screen and(min-width: 1000px){
+  .kort2{
+    margin-top: -122px;
+    margin-bottom: -5px;
+  }
+
+}
