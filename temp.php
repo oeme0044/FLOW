@@ -27,18 +27,6 @@
 
 <body>
 
-<div class="banner" id="bannersek">
-    <video autoplay muted loop>
-        <source src="video/hero-video.mp4" type="video/mp4">
-    </video>
-
-    <div class="bannerdel">
-        <h3 class="over2">Flow, lade dine ideer flyde</h3>
-    </div>
-
-</div>
-
-
 
 
 
