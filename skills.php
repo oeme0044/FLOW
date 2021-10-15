@@ -133,7 +133,7 @@
 
 
     <div class="container padding_bt">
-        <div class="kort space">
+        <div class="kort2 space">
             <div class="kort-titel2 text-white text-center">
                 <h1>Tekst</h1>
                 <div class="linje2"></div>
