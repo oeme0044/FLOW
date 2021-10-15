@@ -28,18 +28,19 @@
 <body>
 
 
-
-
 <div class="container">
-<div class="kort">
-    <div class="kort-titel">
-        <h1>Overskrift</h1>
-        <div class="linje1"></div>
+    <div class="kort">
+        <div class="kort-titel">
+            <h1 class="kortover">Velkommen til Flow</h1>
+            <div class="linje1"></div>
+        </div>
+        <p class="kort-text">
+            Vi er kreative, kloge, unge sjæle, der brænder
+            for at hjælpe andre med deres ideer og gøre dem til virkelighed.
+            Vi er et team med både kodehoveder, designspecialister & fotografer,
+            som er klar til hjælpe dig og din virksomhed med dine ideer.</p>
+
     </div>
-    <div class="kort-text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-    </div>
-</div>
 </div>
 
 

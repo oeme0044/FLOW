@@ -1,40 +1,29 @@
-
-
-.kort{
-  margin: 0 auto;
-  width: 50%;
-  margin-top: 10rem;
-  min-width: 300px;
-
-  .kort-titel{
-    color: #ffffff;
-    text-transform: uppercase;
-
-    .linje1{
-
-      height: 3px;
-      border-radius: 5px;
-      background: #48CAE4;
-      width: 50%;
-      margin-top: 3px;
-      margin-bottom: 10px;
-
-      @media screen and (min-width: 1000px){
-        width: 30%;
-
-      }
-
-
-
-    }
-  }
-
-  .kort-text{
-    color: #fff;
-  }
-
-
+.kort {
+  margin-top: 80px;
+  margin-left: 28px;
 }
+
+.kort-titel {
+  color: #ffffff;
+  text-transform: uppercase;
+
+  .linje1 {
+
+    height: 3px;
+    border-radius: 5px;
+    background: #48CAE4;
+    width: 50%;
+    margin-top: 3px;
+    margin-bottom: 10px;
+  }
+}
+
+.kort-text {
+  color: #fff;
+  font-size: 14px;
+  line-height: 2;
+}
+
 
 .kompetence-kort {
   margin: 0 auto;
@@ -46,26 +35,27 @@
     color: #001D3D;
     text-transform: uppercase;
 
-    h1{
+    h1 {
       font-size: 25px;
       text-align: center;
 
-      @media screen and(min-width: 768px){
-        font-size: 28px;
-      }
     }
 
-
+    @media screen and(min-width: 768px) {
+      .kort-text{
+        font-size: 16px;
+      }
+    }
     .kompetence-linje {
       height: 3px;
       border-radius: 5px;
       background: #48CAE4;
       width: 70%;
       margin: 0 auto;
-      @media screen and(min-width: 992px){
+      @media screen and(min-width: 992px) {
         width: 50%;
       }
-      @media screen and(min-width: 1200px){
+      @media screen and(min-width: 1200px) {
         width: 40%;
       }
 
@@ -75,15 +65,14 @@
 }
 
 
-
-.space{
+.space {
   margin: 0 auto;
   width: 50%;
   margin-top: 2rem;
   margin-bottom: 2rem;
   min-width: 300px;
 
-  .linje2{
+  .linje2 {
     height: 3px;
     border-radius: 5px;
     background: #48CAE4;
@@ -91,41 +80,39 @@
     margin: 0 auto;
     margin-top: 3px;
     margin-bottom: 10px;
-    @media screen and(min-width: 900px){
-      width: 30%;
 
-    }
   }
 
 
 }
 
-.padding_bt{
+.padding_bt {
   padding-bottom: 5rem;
 }
 
 
-
-.bølge2{
+.bølge2 {
   height: 10rem;
 }
 
 
-.kort2{
+.kort2 {
   margin: 0 auto;
   width: 50%;
 
   min-width: 300px;
 }
-@media screen and(min-width: 768px){
-  .kort2{
+
+@media screen and(min-width: 768px) {
+  .kort2 {
     margin-top: -78px;
     margin-bottom: -5px;
   }
 
 }
-@media screen and(min-width: 1000px){
-  .kort2{
+
+@media screen and(min-width: 1000px) {
+  .kort2 {
     margin-top: -122px;
     margin-bottom: -5px;
   }

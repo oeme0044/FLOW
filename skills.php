@@ -69,7 +69,7 @@
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="far fa-window-restore fa-3x text-white" style="margin-top: 20px"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center text-white">Web <span
+                        <h5 class="card-header-text mb-2 d-flex justify-content-center text-white">Web <span
                                     class="text-lys-farve ms-1">Design</span>
                         </h5>
                         <p class="card-text-skills text-center text-white">Professionelle, skalerbare hjemmesider kodet og designet fra bunden.</p>
@@ -83,7 +83,7 @@
                         <div class="icon mb-4 d-flex justify-content-center">
                             <i class="fas fa-camera fa-3x text-white" style="margin-top: 20px" ></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center text-white">Foto & <span
+                        <h5 class="card-header-text mb-2 d-flex justify-content-center text-white">Foto & <span
                                     class="text-lys-farve ms-1">Video</span>
                         </h5>
                         <p class="card-text-skills text-center text-white">Høj kvalitetes billeder og/eller video af dine idéer.</p>
@@ -97,7 +97,7 @@
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="fas fa-film fa-3x text-white" style="margin-top: 20px"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center text-white">Motion <span
+                        <h5 class="card-header-text mb-2 d-flex justify-content-center text-white">Motion <span
                                     class="text-lys-farve ms-1">Design</span></h5>
                         <p class="card-text-skills text-center text-white">Motion design gør dine idéer levende og bevægende.</p>
                     </div>
@@ -110,7 +110,7 @@
                         <div class="icon  mb-4 d-flex justify-content-center">
                             <i class="fas fa-pen-nib fa-3x text-white" style="margin-top: 20px"></i>
                         </div>
-                        <h5 class="mb-3 d-flex justify-content-center text-white">Grafisk <span
+                        <h5 class="card-header-text mb-2 d-flex justify-content-center text-white">Grafisk <span
                                     class="text-lys-farve ms-1"> Design</span></h5>
                         <p class="card-text-skills text-center text-white">Lækkert, moderne grafisk design til enhver smag.</p>
                     </div>
