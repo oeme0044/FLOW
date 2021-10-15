@@ -139,7 +139,9 @@
                 <div class="linje2"></div>
             </div>
             <div class="kort-text text-white text-center">
-                <p>Lidt om hvad coding og design er og gør.</p>
+                <p>Vi kan garantere et produkt der holder og lever op til alle dine forventninger.
+                    Alt hvad vi foretager os er 110% engagement og kan derfor sikre dig og dit
+                    firma, et fantastisk produkt.</p>
             </div>
         </div>
     </div>

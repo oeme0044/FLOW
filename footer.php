@@ -45,7 +45,7 @@
                 <div class="footer-widget">
                     <h6>Ømer Tekbas</h6>
                 </div>
-                <p>My name is Ømer Tekbas. I am 19 years old. I live in Nykøbing Falster. I am currently studying to be a multimedia designer.</p>
+                <p>Vi hedder Flow & vi skaber kreative løsninger for jer.</p>
 
             </div>
 
