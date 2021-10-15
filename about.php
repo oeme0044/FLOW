@@ -31,8 +31,8 @@
 
 <?php include 'header.php'; ?>
 <div>
-    <img class="hero" src="./images/h/1bw.jpg" alt="hero">
-    <div class="centered text-white"><h1>Om Flow</h1></div>
+    <img class="hero blur" src="./images/h/1f.jpg" alt="hero">
+    <h1 class="centered text-white">Om <span class="text-lys-farve">Flow</span></h1>
 </div>
 
 <div class="container"> <!-- about us section -->
