@@ -36,7 +36,7 @@
     </video>
 
     <div class="bannerdel">
-        <h3 class="over2">Flow, lade dine <span class="text-lys-farve">ideer flyde</span></h3>
+        <h3 class="over2">Flow, lad dine <span class="text-lys-farve">ideer flyde</span></h3>
     </div>
 
 </div>
