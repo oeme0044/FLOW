@@ -257,8 +257,9 @@
                         <p class="text-left skill">KODER</p>
                         <h5 class="text-left card-title text-white">OLIVER KRÜGER</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            Jeg er en kreativ person, som altid er klar på at løse diverse problemstillinger. Udover dette er jeg en meget pålidelig, engageret og ansvarlig person, som sætter sit arbejde først.<br><br>
-                            Også er jeg en stolt kattemor, til to små missere. 🐱
+                            Jeg elsker at være kreativ og opfindsom, og udover det nyder jeg at fordybe mig
+                            i forskellige projekter Jeg er dedikeret, passioneret og målrettet og noget af det,
+                            der motiverer mig mest, er når jeg kan se fremgang i processen, samt udsigten til et gennemført færdigt produkt.
                         </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
@@ -266,7 +267,7 @@
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
                                 <div class="col-12 d-none d-sm-block">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                    <p class="px-1 text-white">olivermarco97@gmail.com</p>
                                 </div>
                             </a>
                         </div>
