@@ -45,7 +45,7 @@
         <div class="kort-text text-white">
             <p class="pb-5">Flow er en gruppe hårdt-arbejdende Multimediedesignere, som er villig til at arbejde for dig, og løse dine problemer.<br><br>
                 Vi har en masse viden og kundskaber, som kan være med til at forbedre eller opstarte din virksomhed eller forretning, så du når ud til de rette mennesker, på den rigtige måde.<br><br>
-                Flow er bestående af 7 studerende, som hver i sær har deres speciale inden for området. Om så du har brug for en til at redigere videoer til en reklame, eller om du skal bruge en hjemmeside; Vi kan lidt af det hele!
+                Flow er bestående af 8 studerende, som hver i sær har deres speciale inden for området. Om så du har brug for en til at redigere videoer til en reklame, eller om du skal bruge en hjemmeside; Vi kan lidt af det hele!
             </p>
         </div>
     </div>
@@ -362,7 +362,7 @@
                         <p class="text-left skill">KODER</p>
                         <h5 class="text-left card-title b-text">DENNI DINESEN</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
-                            Jeg bliver holdt som gidsel, dette er et kald efter hjælp.<br><br>De har tvunget mig til at lave denne side, uden så meget som en eneste frokostpause. 😭
+                            Jeg kan som minimum lidt af det hele, men jer arbejder primært med at kode hjemmesider.<br><br>Den her underside af FLOW er designet af opsat af mig, så håber det virker! 😂
                         </p>
                         <div class="row text-center">
                             <a href="mailto:denni-linnebjerg@gubby.dk" class="text-decoration-none">
