@@ -341,15 +341,17 @@
                         <p class="text-left skill">KODER</p>
                         <h5 class="text-left card-title b-text">ØMER TEKBAS</h5>
                         <p class="py-2 card-text d-sm-block d-none b-text">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
+                            Jeg er en dreng med en masse energi og jeg elsker at udfordre mig selv hele tiden,
+                            hvilket betyder at jeg går ind til et projekt med 100% fokus, da det er vigtigt for
+                            mig at give mit alt for projektet.                       </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
                                 <div class="col-12 d-none d-sm-block">
-                                    <p class="px-1 b-text">Eksempel@gmail.com</p>
+                                    <p class="px-1 b-text">tekbas425@gmail.com
+                                    </p>
                                 </div>
                             </a>
                         </div>
