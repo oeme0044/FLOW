@@ -135,11 +135,11 @@
     <div class="container padding_bt">
         <div class="kort2 space">
             <div class="kort-titel2 text-white text-center">
-                <h1>Tekst</h1>
+                <h1>Produkt</h1>
                 <div class="linje2"></div>
             </div>
             <div class="kort-text text-white text-center">
-                <p>Vi kan garantere et produkt der holder og lever op til alle dine forventninger.
+                <p>Vi kan garantere et produkt der holder og lever op til alle dine/jeres forventninger.
                     Alt hvad vi foretager os er 110% engagement og kan derfor sikre dig og dit
                     firma, et fantastisk produkt.</p>
             </div>

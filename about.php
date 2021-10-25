@@ -144,15 +144,15 @@
                         <p class="text-left skill">DESIGNER</p>
                         <h5 class="text-left card-title text-white">NISTIMAN OMAR</h5>
                         <p class="py-2 card-text d-sm-block d-none text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
+                            Jeg er designer, som kan lidt af hver. jeg kan godt lige at redergerer videoer og vil geren fokuse på visiual design.
+                            Udover dette er jeg en kreativ, engageret og ansvarlig person.                        </p>
                         <div class="row text-center">
                             <a href="mailto:webmaster@example.com" class="text-decoration-none">
                                 <div class="col-12">
                                     <i class="far fa-envelope fa-2x skill"></i>
                                 </div>
                                 <div class="col-12 ">
-                                    <p class="px-1 text-white">Eksempel@gmail.com</p>
+                                    <p class="px-1 text-white">Kamsherco@gmail.com</p>
                                 </div>
                             </a>
                         </div>
