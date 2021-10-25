@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Sigende titel</title>
+    <link rel="shortcut icon" type="image/png" href="images/blueLogo.svg">
+    <title>Om os</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">

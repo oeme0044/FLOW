@@ -42,10 +42,10 @@
         <div class="footerrow row">
 
             <div class="fotcol col-lg-3 col-md-6 col-sm-6">
-                <div class="footer-widget">
-                    <h6>Ømer Tekbas</h6>
+                <div class="footer-widget pb-4">
+                    <img src="images/Footer-logo.svg" alt="" style="width: 50%">
                 </div>
-                <p>Vi hedder Flow & vi skaber kreative løsninger for jer.</p>
+                <p>Vi er Flow & vi skaber kreative løsninger for dig/jer.</p>
 
             </div>
 
@@ -68,7 +68,7 @@
                     <ul>
                         <li><i class="fas fa-mobile-alt"></i> +45 50 69 93 66</li>
                         <li><i class="far fa-envelope"></i> flowaps2021@gmail.com</li>
-                        <li><i class="fas fa-map-marker-alt"></i> Nykøbing Falster, Denmark</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Nykøbing Falster 4800, Danmark</li>
 
 
                     </ul>
@@ -91,7 +91,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="footer-copyright-text">
-                    <p>Copyright &copy; 2021 All rights reserved | Flow</p>
+                    <p>Copyright &copy; 2021 All rights reserved | Flow Aps</p>
                 </div>
             </div>
         </div>
